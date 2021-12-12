@@ -25,9 +25,6 @@
     "noImplicitThis": true,
     "strictNullChecks": true,
     "forceConsistentCasingInFileNames": true,
-    "types": [
-      "vite/client"
-    ]
   },
   "include": [
     "./src",

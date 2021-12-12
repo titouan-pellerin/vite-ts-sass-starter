@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "vite --host",
     "build": "tsc && vite build",
-    "serve": "vite preview"
+    "serve": "vite --host --port 8080 preview"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.2.0",
